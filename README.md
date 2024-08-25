@@ -106,10 +106,4 @@ app.listen(port, () => {
 3. **Server Start:**
    - Demonstrates how to start the server and listen on a specified port.
 
-### Notes
-
-- The backend code is included in the same file for educational purposes. In practice, backend logic should be managed separately.
-- Ensure your development environment supports both frontend and backend components for proper execution.
-
-This README provides an overview and explanation of how to use the `delete.js` file and how it integrates frontend and backend functionality.
 ```
