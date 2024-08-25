@@ -89,3 +89,26 @@ const port = 4001;
 app.listen(port, () => {
     console.log(`Server running on http://localhost:${port}`);
 });
+
+
+
+
+### `README.md`
+
+```markdown
+
+
+### Explanation
+
+1. **Frontend Interaction:**
+   - The code manages form submission and interacts with the backend API to delete a user.
+
+2. **Backend Route Handler:**
+   - Handles user deletion, including authentication and authorization checks.
+
+3. **Server Start:**
+   - Demonstrates how to start the server and listen on a specified port.
+
+
+```
+
