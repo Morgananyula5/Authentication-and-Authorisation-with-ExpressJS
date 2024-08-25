@@ -1,6 +1,6 @@
 # delete.js
 
-## Overview
+## Located in the Backend
 
 This file provides functionality for deleting a user in a web application. It includes both frontend and backend components, combined into a single JavaScript file for demonstration purposes.
 
